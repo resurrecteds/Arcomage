@@ -41,7 +41,13 @@
 /*
  * continuing undo part: 29/8/2011 (working for all players, except with "Play again" cards
  * Author: Jenya Shenker
- * version: theta 0.96
+ * version: eta 0.96
+*/
+
+/*
+* continuing undo part: 7/8/2020 (Introduced names for players)
+* Author: Jenya Shenker
+* version: theta 0.97
 */
 
 #endif
