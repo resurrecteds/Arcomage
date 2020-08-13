@@ -11,7 +11,7 @@ int main()
 	int retVal = 0;
 	const int FIRST_PLAYER = 0;
 	int repeatFlag = 0;
-	int towerSizeToWin = 70, numOfPlayers = 4, resourceAmountToWin = 250;
+	int towerSizeToWin = 70, numOfPlayers = 2, resourceAmountToWin = 250;
 	int turn = 0, sameTurn = 0;
 /*	cout << "Please enter the tower size to win: ";
 	cin >> towerSizeToWin;

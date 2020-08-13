@@ -212,7 +212,7 @@ void Arcomage::CalculateGameChanges(int playingPlayer, int* sameTurn)
 	case 25:	//Crystal Rocks
 		CHECK_BRICKS(9);
 		player->SetWallSize(7);
-		player->SetGems(17);
+		player->SetGems(7);
 		return;
 	case 26:	//Barracks
 		CHECK_BRICKS(10);
