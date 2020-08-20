@@ -153,7 +153,7 @@ void Arcomage::CalculateGameChanges(int playingPlayer, int* sameTurn)
 		player->SetWallSize(6);
 		return;
 	case 17:	//New Equipment
-		CHECK_BRICKS(5);
+		CHECK_BRICKS(6);
 		player->SetQuerry(2);
 		return;
 	case 18:	//Flood Water
